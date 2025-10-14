@@ -1,4 +1,4 @@
-# 🤩🤩✈️✈️✈️ Airline App
+# The Airline App
 
 App where you can learn everything you need to know about your next journey and how to make it safe, hassle-free, and on budget. It has information on your scheduled flights, reward miles, best hotel deals, and more.
 
